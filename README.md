@@ -1,16 +1,56 @@
 # 🚀 Career OS
 
-Bem-vindo ao meu Career OS.
+Bem-vindo ao meu **Career OS**.
 
-Este repositório é meu sistema de organização profissional, onde documento minha evolução como profissional de Infraestrutura, Cloud Computing e tecnologias Microsoft.
+Este repositório reúne minha evolução profissional como Analista de Infraestrutura, documentando estudos, certificações, projetos, laboratórios e objetivos de carreira.
 
-## Objetivos
+---
 
-- Organizar meus estudos
-- Documentar projetos
-- Registrar laboratórios
-- Acompanhar certificações
-- Construir um portfólio técnico
+# 📂 Navegação
+
+## 🗺️ Roadmap
+Planejamento da minha evolução profissional.
+
+➡️ [Acessar Roadmap](01-Roadmap/README.md)
+
+---
+
+## 🎓 Certificações
+Certificações Microsoft, cursos e formações.
+
+➡️ [Acessar Certificações](02-Certifications/README.md)
+
+---
+
+## 💻 Projetos
+Projetos práticos e soluções desenvolvidas.
+
+🚧 Em construção
+
+---
+
+## 📚 Estudos
+Anotações e resumos técnicos.
+
+🚧 Em construção
+
+---
+
+## 📈 Status do Projeto
+
+| Área | Status |
+|------|:------:|
+| Roadmap | ✅ |
+| Certificações | ✅ |
+| Projetos | 🚧 |
+| Estudos | 🚧 |
+| Learning Log | 🚧 |
+
+---
+
+## 🎯 Objetivo Profissional
+
+Atuar como **Analista de Infraestrutura**, ampliando conhecimentos em Microsoft 365, Azure, PowerShell, Python e Cloud Computing.
 
 ---
 
